@@ -7,15 +7,15 @@ Bot desenvolvido durante MaratonaBots da Microsoft
 ## Como executar
 Executar o comando abaixo para instalar as dependências:
 
-...
+```
 npm install
-...
+```
 
 Para executar:
 
-...
+```
 npm start
-...
+```
 
 ## Tecnologias e frameworks usados
 - NodeJS
